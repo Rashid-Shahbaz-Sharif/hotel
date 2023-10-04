@@ -1,0 +1,2 @@
+# hotel
+Hotel Landing Page
